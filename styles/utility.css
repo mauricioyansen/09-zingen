@@ -25,7 +25,7 @@
   display: none;
 }
 
-.even-coluns {
+.even-columns {
   display: grid;
   gap: 1rem;
 }
@@ -34,7 +34,7 @@
   display: flex;
 }
 
-.itens-center {
+.items-center {
   align-items: center;
 }
 
@@ -59,7 +59,7 @@
     display: initial;
   }
 
-  .even-coluns {
+  .even-columns {
     grid-auto-flow: column;
     grid-auto-columns: 1fr;
   }
